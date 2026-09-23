@@ -57,3 +57,20 @@ A 4-page Power BI dashboard built for CityCare Hospital, analyzing patient admis
 ## Notes
 
 Dataset used is synthetic/sample hospital data for demonstration purposes. The .pbix file requires Power BI Desktop to open and explore interactively.
+
+
+
+
+### 1. Hospital Overview
+<img width="1342" height="755" alt="image" src="https://github.com/user-attachments/assets/1a26c9fb-8b36-48b6-a694-325247c4800e" />
+
+### 2. Clinical & Operational Insights
+
+<img width="1338" height="747" alt="image" src="https://github.com/user-attachments/assets/ce91ef21-60b8-4302-9ae4-6af2f8d862c6" />
+
+### 3. Patient & Provider Insights
+<img width="1346" height="751" alt="image" src="https://github.com/user-attachments/assets/cdd0ff79-bb53-4388-87c5-08411666c910" />
+
+### 4. Financial Insights
+<img width="1338" height="741" alt="image" src="https://github.com/user-attachments/assets/b2088cff-fb9f-470b-b25e-399bd3b63cad" />
+
